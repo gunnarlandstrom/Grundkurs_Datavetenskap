@@ -1,0 +1,137 @@
+
+
+body {
+background-image: url('bakgrund1.png');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+header {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #Daf0ff;
+box-shadow: 0px 0px 12px #C5C6C7;
+
+
+}
+
+li {
+  float: left;
+}
+
+li a, .dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover, .dropdown:hover .dropbtn {
+  background-color: #7393B3;
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #Daf0ff;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  border-radius: 3px;
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+.dropdown-content a:hover {
+background-color: #7393B3;
+border-radius: 3px;
+
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+
+h1 {
+color:#222222;
+text-align:center;
+text-shadow: 4px 4px 8px black;
+border-radius: 5px;
+
+margin: 0;
+  position: absolute;
+  top: 4%;
+  left: 40%;
+}
+
+
+
+a:link {
+  color: black;
+text-decoration: none;
+}
+
+a:visited {
+  color: black;
+text-decoration: none;
+}
+
+a:hover {
+  color: black;
+text-decoration: none;
+}
+
+
+fyrkant {
+
+  background-color: #Daf0ff;
+  border: solid #7393B3 4px;
+  width: 825px;
+  block-size: 400px;
+  opacity: 0.7;
+ margin: 0;
+  position: absolute;
+  top: 15%;
+  left: 20%;
+
+
+
+}
+
+p {
+
+text-align:center;
+font-size: 18px;
+
+}
+
+
+.rosagunnar {
+
+height: 540px;
+width: 360px;
+margin: 0;
+  position: absolute;
+  top: 11%;
+  left: 38%;
+
+
+
+}
+
