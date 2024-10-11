@@ -19,14 +19,14 @@
 embed {
   margin: 0;
   position: absolute;
-  top: 5%;
+  top: 15%;
   left: 17%;
   max-width: 100%;
   max-height: 100%;
 }
 
 /* Header med dropdownmeny*/
-header {
+.header {
   list-style-type: none;
   margin: 0;
   padding: 0;
