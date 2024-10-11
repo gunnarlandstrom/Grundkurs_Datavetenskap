@@ -111,21 +111,30 @@ a:hover {
   text-decoration: none;
 }
 
-/* Oanvänd frame för info på diverse sida
-fyrkant {
+/* Oanvänd frame för info på diverse sida */
+.fyrkant {
   background-color: #Daf0ff;
   border: solid #7393B3 4px;
   block-size: 1000px;
   opacity: 0.8;
   margin: 0;
-  width: 1700px;
+  width: 63%;
+  height: 70%;
   position: absolute;
-  top: 10%;
+  top: 15%;
   left: 18%;
   max-width: 100%;
   max-height: 100%;
 }
-*/
+
+.cvintro {
+  
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 28px;
+
+
+}
 
 /* Footer för kontaktinfo längst ner på sidan*/
 .footerbar {
